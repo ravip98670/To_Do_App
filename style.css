@@ -1,0 +1,30 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+#outer{
+    display: flex;
+    flex-direction: column;
+    /* justify-content: center; */
+    align-items: center;
+    height: 100vh;
+    background-color: blueviolet;
+}
+#temp{
+    margin-top: 50px;
+
+}
+#task{
+    border: 2px solid black;
+    display: flex;
+}
+/* #new{
+    border: 5px solid black;
+} */
+#para{
+    display: flex;
+    margin: 5px;
+    padding: 5px;
+    background-color: darkgray;
+}
